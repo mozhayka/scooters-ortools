@@ -32,11 +32,7 @@
  
 <img src="https://github.com/mozhayka/scooters-ortools/blob/master/graphics/input1/couriers-1/result-4296_tl-100s_meta-GUIDED-LOCAL-SEARCH_start-PATH-CHEAPEST-ARC_opt-N.svg">
 
-100 sec cheapest arc - 71 min
-
 <img src="https://github.com/mozhayka/scooters-ortools/blob/master/graphics/input1/couriers-1/result-3866_tl-100s_meta-GUIDED-LOCAL-SEARCH_start-CHRISTOFIDES_opt-N.svg" background-color="#ffffff">
-
-100 sec christofides - 64 min
 
 ## 4 курьера
 
