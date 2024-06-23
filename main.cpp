@@ -101,7 +101,7 @@ void full_tryhard() {
                 int j = 0;
                 for (auto start : starts) {
                     for (auto meta : metas) {
-                        auto params = VRPparams(tl, start, meta, true);
+                        auto params = VRPparams(tl, start, meta);
                         auto result = vrp(data, params);
                         int total_time = 0;
                         for (auto& res : result) {
