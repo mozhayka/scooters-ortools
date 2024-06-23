@@ -28,3 +28,7 @@
  <img src=https://github.com/mozhayka/scooters-ortools/blob/master/presentation/images/1-courier.svg>
 </p>
 
+<div align="center">
+  <img src="https://github.com/mozhayka/scooters-ortools/blob/master/graphics/input1/couriers-1/result-4296_tl-100s_meta-GUIDED-LOCAL-SEARCH_start-PATH-CHEAPEST-ARC_opt-N.svg" background-color="#ffffff">
+</div>
+
